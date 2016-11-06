@@ -1,0 +1,3 @@
+-I deps/serial
+-I deps/commander
+-I deps/color-sh
